@@ -1,1 +1,1 @@
-## simple recommender system using TFIDF and cosine similarity
+## simple movie recommender system using TFIDF and cosine similarity
