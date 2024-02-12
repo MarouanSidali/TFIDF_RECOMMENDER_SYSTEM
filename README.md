@@ -1,1 +1,1 @@
-# TFIDF_RECOMMENDER_SYSTEM
+## simple recommender system using TFIDF and cosine similarity
